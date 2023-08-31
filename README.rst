@@ -19,6 +19,7 @@ library aims to ease its use.
 Quick jump
 ----------
 
+* `API Resource list`_
 * `Usage by example`_
 * `Using element adapters`_
 * `Setting up the link`_
@@ -28,6 +29,12 @@ Quick jump
 * `TODO`_
 * `Further reading`_
 
+
+
+API Resource list
+-----------------
+
+[https://start.exactonline.nl/docs/HlpRestAPIResources.aspx?SourceAction=10](https://start.exactonline.nl/docs/HlpRestAPIResources.aspx?SourceAction=10)
 
 
 Usage by example
